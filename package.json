@@ -1,6 +1,6 @@
 {
   "name": "@doj/react-native-responsive-kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "@doj/react-native-responsive-kit provides simple, lightweight utilities to build truly responsive and consistent React Native apps across all device sizes. Easily scale layouts, fonts, and components without worrying about different screen dimensions or pixel densities.",
   "source": "./src/index.tsx",
   "main": "./lib/module/index.js",
