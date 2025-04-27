@@ -259,6 +259,22 @@ const App = () => {
 
 ---
 
+## 💰 Support the Project
+
+If you find this project useful and would like to support the development, you can donate via the following platforms:
+
+### ☕ Buy Me A Coffee
+
+[Buy me a coffee](https://www.buymeacoffee.com/daddyomarjeng)
+
+### 💎 Patreon
+
+[Become a Patron on Patreon](https://www.patreon.com/daddyomarjeng)
+
+Your contributions will help keep this project active and improve its features. Thank you for your support! 🙏
+
+---
+
 ## 🛡️ License
 
 MIT License © 2025 Daddy Omar Jeng
